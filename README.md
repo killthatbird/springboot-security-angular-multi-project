@@ -3,7 +3,7 @@ Demo using Spring Boot, Spring secutiry and angular. Based on https://spring.io/
 
 Multiproject Single Page Application.
 
-From part 3 to the end of tutorial
+Part 3 of tutorial
 
 You need to install and run a Redis server.
 
